@@ -1,11 +1,11 @@
 import React from 'react';
-import '../../scss/global/header.scss';
+import '../scss/header.scss';
 
 export default function Header() {
     return (
         <header>
 
-            <h1>Minecraft Server List</h1>
+            <h1>Tic - Tac - Toe</h1>
 
         </header>
     );

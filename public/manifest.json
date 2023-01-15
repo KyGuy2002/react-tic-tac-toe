@@ -1,6 +1,6 @@
 {
-  "short_name": "Server List",
-  "name": "Minecraft Server List",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
